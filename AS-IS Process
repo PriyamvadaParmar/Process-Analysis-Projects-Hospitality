@@ -1,0 +1,22 @@
+##  AS-IS Process (Current State)
+
+```text
+[Guest Arrival]
+      ↓
+[Wait in Queue]
+      ↓
+[Manual Reservation Lookup]
+      ↓
+[Manual ID Verification]
+      ↓
+[Data Entry in PMS]
+      ↓
+[Room Availability Check with Housekeeping]
+      ↓
+[Room Allocation]
+      ↓
+[Payment Processing]
+      ↓
+[Key Card Issuance]
+      ↓
+[Guest Proceeds to Room]
